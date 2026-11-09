@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Enkel updates</title>
+    <link>https://github.com/enkel-hq/enkel-releases/releases</link>
+    <description>Signed macOS releases for Enkel.</description>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: eCPmuGn96cH4Gzb7cu7aaFhZ7/h1HgYNl7uQTubL7vo7Y+r99kkxEizweLdoybGmjbl9H8u8707g9CWCqL+GCw==
+length: 576
+-->
